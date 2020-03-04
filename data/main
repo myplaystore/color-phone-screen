@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "micros": [
+    {
+      "type": "gradient",
+      "lottie_small": 47.5,
+      "lottie_large": 95
+    },
+    {
+      "type": "neon",
+      "lottie_small": 50,
+      "lottie_large": 100
+    },
+    {
+      "type": "star",
+      "lottie_small": 62.5,
+      "lottie_large": 125
+    },
+    {
+      "type": "default",
+      "lottie_small": 50,
+      "lottie_large": 100
+    },
+    {
+      "type": "3d",
+      "lottie_small": 65,
+      "lottie_large": 130
+    },
+    {
+      "type": "chaticon",
+      "lottie_small": 75,
+      "lottie_large": 150
+    },
+    {
+      "type": "normal2",
+      "lottie_small": 74,
+      "lottie_large": 148
+    },
+    {
+      "type": "emoji",
+      "lottie_small": 79,
+      "lottie_large": 158
+    },
+    {
+      "type": "neon_star",
+      "lottie_small": 65,
+      "lottie_large": 130
+    }
+  ],
+  "lists": [
+    {
+      "id": "love",
+      "name": "Love",
+      "musicPath": "deep_thoughts",
+      "microType": "star"
+    },
+    {
+      "id": "pink_heart",
+      "name": "Pink heart",
+      "musicPath": "groovy",
+      "microType": "neon_star",
+      "isNew": true
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "musicPath": "night_at_the_club",
+      "microType": "neon_star"
+    },
+    {
+      "id": "blue_sky",
+      "name": "Blue Sky",
+      "musicPath": "sweet_piano",
+      "microType": "gradient",
+      "isNew": true
+    },
+    {
+      "id": "stars",
+      "name": "Stars",
+      "musicPath": "pure_water",
+      "microType": "neon_star",
+      "isNew": true
+    },
+    {
+      "id": "cat",
+      "name": "Cat",
+      "musicPath": "island_fun",
+      "microType": "chaticon"
+    },
+    {
+      "id": "night_sky",
+      "name": "Night Sky",
+      "musicPath": "sweet_piano"
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "musicPath": "sweet_piano"
+    },
+    {
+      "id": "big_ben",
+      "name": "Big Ben",
+      "musicPath": "deep_thoughts"
+    },
+    {
+      "id": "bloom",
+      "name": "Bloom",
+      "musicPath": "playful",
+      "microType": "gradient"
+    },
+    {
+      "id": "city_night",
+      "name": "City Night",
+      "musicPath": "deep_thoughts",
+      "microType": "3d"
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "musicPath": "groovy",
+      "microType": "emoji"
+    },
+    {
+      "id": "colorful",
+      "name": "Colorful",
+      "musicPath": "groovy",
+      "microType": "normal2"
+    },
+    {
+      "id": "curves",
+      "name": "Curves",
+      "musicPath": "chime_synth_flutter",
+      "microType": "neon"
+    },
+    {
+      "id": "distract",
+      "name": "Distract",
+      "musicPath": "night_at_the_club",
+      "microType": "neon"
+    },
+    {
+      "id": "dream",
+      "name": "Dream",
+      "musicPath": "pure_water",
+      "microType": "star"
+    },
+    {
+      "id": "emitting",
+      "name": "Emitting",
+      "musicPath": "ambient",
+      "microType": "star"
+    },
+    {
+      "id": "kaleidoscope",
+      "name": "Kaleidoscope",
+      "musicPath": "island_fun",
+      "microType": "neon"
+    },
+    {
+      "id": "go_on",
+      "name": "Go On",
+      "musicPath": "playful",
+      "microType": "chaticon"
+    },
+    {
+      "id": "happy",
+      "name": "Happy",
+      "musicPath": "island_fun",
+      "microType": "emoji"
+    },
+    {
+      "id": "particular",
+      "name": "Particular",
+      "musicPath": "ambient",
+      "microType": "gradient"
+    },
+    {
+      "id": "puppy",
+      "name": "Puppy",
+      "musicPath": "groovy",
+      "microType": "chaticon"
+    },
+    {
+      "id": "sea",
+      "name": "Sea",
+      "musicPath": "deep_thoughts",
+      "microType": "gradient"
+    },
+    {
+      "id": "coastline",
+      "name": "Coastline",
+      "musicPath": "sweet_piano",
+      "microType": "normal2"
+    },
+    {
+      "id": "stardust",
+      "name": "Stardust",
+      "musicPath": "pure_water",
+      "microType": "3d"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "musicPath": "sweet_piano"
+    },
+    {
+      "id": "surfing",
+      "name": "Surfing",
+      "musicPath": "deep_thoughts",
+      "microType": "chaticon"
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "musicPath": "night_at_the_club",
+      "microType": "normal2"
+    },
+    {
+      "id": "vortex",
+      "name": "Vortex",
+      "musicPath": "pure_water",
+      "microType": "3d"
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "musicPath": "groovy",
+      "microType": "gradient"
+    }
+  ]
+}
